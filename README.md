@@ -17,7 +17,7 @@ Lorem Ipsum
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="" height="25" />
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="" height="15" />
 </p>
  <p align="center">
  
