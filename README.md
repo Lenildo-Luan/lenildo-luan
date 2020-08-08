@@ -1,21 +1,13 @@
 # Prazer, Luan 👋
 
-Sou um estudante de Engenharia de Computação 
+Lorem Ipsum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que tenho feito?
+- Estudando para ser um engenheiro da computaço (50%)
+- Membro do [LASER-UFPB](https://laser.ci.ufpb.br/), estudando e pesquisando sobre pesquisa operacional e otimização discreta
+- Estagiário na [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq) com desenvolvimento mobile
+- Iniciando um negócio (em breve mais :grin:)
+- Organizando as atividades da [RAS UFPB](https://www.instagram.com/rasufpb/)
+- Começando a criar conteúdo no meu [Site](lenildoluan.com)
 
-## Stats 📊
-<a href="https://github.com/lenildo-luan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenildo-luan&hide=contribs&theme=default" />
-</a>
-<a href="https://github.com/lenildo-luan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenildo-luan&layout" />
-</a>
+## Minha experiência
