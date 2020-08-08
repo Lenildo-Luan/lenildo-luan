@@ -14,6 +14,7 @@ Lorem Ipsum
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="" width="400" />
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="" width="100" />
 
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
