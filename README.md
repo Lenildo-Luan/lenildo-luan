@@ -16,6 +16,4 @@ Sou um estudante de Engenharia de Computação
 <a href="https://github.com/lenildo-luan/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenildo-luan&hide=contribs&theme=default" />
 </a>
-<a href="https://github.com/lenildo-luan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenildo-luan&layout=compact&hide=jupyter%20notebook" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenildo-luan)](https://github.com/lenildo-luan/github-readme-stats)
