@@ -13,23 +13,24 @@ Lorem Ipsum
 ### Minha experiência
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="" width="400" />
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="" height="15" />
+    <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC" alt="" height="20" />
 </p>
- <p align="center">
- 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=GIT" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=GITHUB" alt="" height="20" />    
+    <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=JIRA" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react" alt="" height="20" />
+    <img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js" alt="" height="20" />
 </p>
-
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-
-
-
