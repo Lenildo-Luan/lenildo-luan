@@ -1,6 +1,6 @@
 # Prazer, Luan 👋
 
-Here are some ideas to get you started:
+Sou um estudante de Engenharia de Computação 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats 📊
+<a href="https://github.com/lenildo-luan/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenildo-luan&hide=contribs&theme=default" />
+</a>
+<a href="https://github.com/lenildo-luan/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenildo-luan&layout=compact&hide=jupyter%20notebook" />
+</a>
