@@ -2,7 +2,7 @@
 
 Lorem Ipsum
 
-## O que tenho feito?
+### O que tenho feito?
 - :computer: Estudando para ser um engenheiro da computaço (50%)
 - :bar_chart: Membro do [LASER-UFPB](https://laser.ci.ufpb.br/), estudando e pesquisando sobre pesquisa operacional e otimização discreta
 - :iphone: Estagiário na [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq) com desenvolvimento mobile
@@ -10,4 +10,7 @@ Lorem Ipsum
 - :robot: Organizando as atividades da [RAS UFPB](https://www.instagram.com/rasufpb/)
 - :bookmark_tabs: Começando a criar conteúdo no meu [Site](lenildoluan.com)
 
-## Minha experiência
+### Minha experiência
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="" width="169" />
+
