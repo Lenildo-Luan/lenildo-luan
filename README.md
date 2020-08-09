@@ -6,7 +6,7 @@
 
 ### O que tenho feito?
 - :computer: Estudando para ser um engenheiro da computação (50%) no [Centro de Informática UFPB](http://ci.ufpb.br/)
-- :bar_chart: Me expecializando em pesquisa operacional e otimização discreta no [LASER-UFPB](https://laser.ci.ufpb.br/)
+- :bar_chart: Me especializando em pesquisa operacional e otimização discreta no [LASER-UFPB](https://laser.ci.ufpb.br/)
 - :iphone: Desenvolvendo o aplicativo do [ENIC](http://www.propesq.ufpb.br/enic) como estagiário da [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq)
 - :office: Iniciando um negócio (em breve mais :grin:)
 - :robot: Gerenciando a [RAS UFPB](https://www.instagram.com/rasufpb/)
