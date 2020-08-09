@@ -39,3 +39,5 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 - 🖥 &nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
+- :pager: 
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
