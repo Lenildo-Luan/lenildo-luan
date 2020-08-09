@@ -9,7 +9,7 @@
 - :bar_chart: Membro do [LASER-UFPB](https://laser.ci.ufpb.br/), estudando e pesquisando sobre pesquisa operacional e otimização discreta
 - :iphone: Estagiário na [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq) com desenvolvimento mobile
 - :office: Iniciando um negócio (em breve mais :grin:)
-- :robot: Organizando as atividades da [RAS UFPB](https://www.instagram.com/rasufpb/)
+- :robot: Gerenciando a [RAS UFPB](https://www.instagr)am.com/rasufpb/)
 - :bookmark_tabs: Começando a criar conteúdo no meu [site](lenildoluan.com)
 
 ### Minha experiência   
