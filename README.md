@@ -26,7 +26,7 @@
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify)
 - :iphone: &nbsp;
   ![ReacnNative](https://img.shields.io/badge/-ReacnNative-333333?style=flat&logo=react)
-- 🛢 &nbsp;
+- :minidisc: &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
