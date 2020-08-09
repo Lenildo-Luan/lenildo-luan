@@ -6,13 +6,13 @@
 
 ### O que tenho feito?
 - :computer: Estudando para ser um engenheiro da computaço (50%) no [Centro de Informática UFPB](http://ci.ufpb.br/)
-- :bar_chart: Membro do [LASER-UFPB](https://laser.ci.ufpb.br/), estudando e pesquisando sobre pesquisa operacional e otimização discreta
-- :iphone: Estagiário na [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq) com desenvolvimento mobile
+- :bar_chart: Estudando e pesquisando sobre pesquisa operacional e otimização discreta no [LASER-UFPB](https://laser.ci.ufpb.br/)
+- :iphone: Desenvolvendo o aplicativo do [ENIC](http://www.propesq.ufpb.br/enic) como estagiário da [PROPESQ UFPB](http://www.propesq.ufpb.br/propesq)
 - :office: Iniciando um negócio (em breve mais :grin:)
-- :robot: Gerenciando a [RAS UFPB](https://www.instagr)am.com/rasufpb/)
+- :robot: Gerenciando a [RAS UFPB](https://www.instagram.com/rasufpb/)
 - :bookmark_tabs: Começando a criar conteúdo no meu [site](lenildoluan.com)
 
-### Minha experiência   
+### Caixa de ferramentas 
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
