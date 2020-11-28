@@ -9,7 +9,7 @@
 - :bar_chart: Me especializando em otimização combinatória no [LASER-UFPB](https://laser.ci.ufpb.br/)
 - :office: Trabalhando com desenvolvimento na [Bravadus](https://bravadus.com.br/)
 - :robot: Gerenciando a [RAS UFPB](https://www.instagram.com/rasufpb/)
-- :bookmark_tabs: Começando a criar conteúdo no meu [instagram](lenildoluan.com)
+- :bookmark_tabs: Começando a criar conteúdo no meu [website](lenildoluan.com) e [instagram](https://www.instagram.com/lenildoluan/)
 
 ### Caixa de ferramentas 
 
