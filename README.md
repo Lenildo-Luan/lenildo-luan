@@ -1,12 +1,10 @@
 ## Prazer, Luan
 
-Lenildo Luan is a Front-End Developer, certified by Meta, with over 4 years of hands-on experience specializing in Vue.js and its ecosystem.
+Lenildo Luan is a seasoned Front-End Developer with over 4 years of specialized experience in the Vue.js ecosystem, proficient in tools like Nuxt.js, Vuex, Vue Router, and Vuetify. His technical expertise is solidified by a prestigious certification from Meta. Throughout his career, Lenildo has adeptly managed diverse projects, catering to a spectrum of clients from nimble startups to Federal Institutions and leading corporate giants.
 
-Throughout his career, he has successfully developed comprehensive projects and performed maintenance on diverse code bases, catering to an array of clients ranging from startups, Federal Institutions, to large corporations.
+While at Convenia, Lenildo was instrumental in amplifying the company's web-centric marketing strategies. He not only meticulously maintained the website but also bolstered the marketing team with developmental support. Through his initiative, the integration of various tools and APIs optimized marketing workflows, all the while ensuring web designs stayed in harmony with the company's aesthetic and upheld impeccable coding standards. At Assert IFPB, his versatility shone through as he steered ASUS Foxconn's web and mobile administrative payment platforms. He enhanced the web platform's responsiveness, spearheaded the development of ASUS Foxconn's mobile payment app, and mentored new team members, ensuring project coherence and forward momentum.
 
-In addition, Lenildo's 3+ years delving into the research of advanced algorithms for practical problem-solving have honed his strong algorithmic and logical acumen, coupled with a data-driven mindset.
-
-Beyond his coding proficiency, Lenildo is a natural leader. For nearly 3 years, he has spearheaded a volunteer project of his initiation, mentoring 20+ enthusiastic students and fostering their passion for technology.
+Merging his technical proficiency with a deep understanding of advanced algorithms, Lenildo has dedicated over 3 years to devising practical solutions for complex issues. This analytical journey has sharpened his algorithmic prowess and honed a data-centric problem-solving approach. Beyond coding, Lenildo emerges as an inspirational leader, championing a volunteer initiative for close to three years. His dedication to mentoring more than 20 tech aspirants reflects his passion for nurturing the future torchbearers of technology.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/lenildoluan/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/lenildoluan/)
